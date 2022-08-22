@@ -23,3 +23,7 @@ gerbil
 data
 log
 *.user
+
+dist
+build
+*.egg-info
