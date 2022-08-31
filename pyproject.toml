@@ -14,8 +14,7 @@ name = "gcode-machine"
 version = "0.2.0"
 description = "Python3 module containing a class that emulates a simple CNC state machine that can be used for simulation and processing of G-code."
 authors = [ 
-        {name='Michael Franzl', email='michael@franzl.name'},
-        {name='Paul Grimes', email='pgrimes@cfa.harvard.edu'}
+        {name='Michael Franzl', email='michael@franzl.name'}
     ]
 readme = "README.rst"
 license = {text = "MIT License"}
