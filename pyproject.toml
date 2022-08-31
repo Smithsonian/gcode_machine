@@ -5,12 +5,12 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools.packages.find]
 # All the following settings are optional:
 where = ["src"]  # ["."] by default
-include = ["gcode-machine*"]  # ["*"] by default
+include = ["gcode_machine*"]  # ["*"] by default
 exclude = ["tests*"]  # empty by default
 namespaces = false  # true by default
 
 [project]
-name = "gcode-machine"
+name = "gcode_machine"
 version = "0.2.0"
 description = "Python3 module containing a class that emulates a simple CNC state machine that can be used for simulation and processing of G-code."
 authors = [ 
