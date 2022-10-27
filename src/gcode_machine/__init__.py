@@ -1,1 +1,1 @@
-import gcode_machine
+from .gcode_machine import *
